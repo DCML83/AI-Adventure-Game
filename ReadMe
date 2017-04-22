@@ -1,0 +1,26 @@
+Shawn Chen
+Kristan Hart
+
+Instructions for use:
+
+
+Unzip the file project
+Navigate to the project directory 
+Run python3 A1_main.py 
+Select Start Game
+(Enemies are purple, Potions are red)
+
+Movement
+Press q button for automatic mode, including automatic movement
+If q is not pressed, use the directional buttons to move the player
+Press q again to halt the automatic mode, this will happen once the current action is completed
+	Battle
+Press a to attack 
+
+Hover the mouse over an enemy or potion to show the value grid. 
+Press the escape key to exit the game 
+If you have died select restart to immediately play again, main menu to return to the start screen again and quit to exit the program 
+
+
+Run A1_test.py to get test results 
+
